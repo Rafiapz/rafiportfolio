@@ -12,6 +12,7 @@ h1 {
 h1 strong {
 	font-weight: 900;
 }
+
 h2 {
 	line-height: 20px;
 	margin: 0;
@@ -209,7 +210,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	height: auto;
 	text-align: center;
 	color: #fff;
-	background: url(../img/bagpic.jpg) no-repeat center center;
+	background: url(../img/im/bagpic.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
